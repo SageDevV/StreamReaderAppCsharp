@@ -1,0 +1,14 @@
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\bin\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.exe
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\bin\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.deps.json
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\bin\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.runtimeconfig.json
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\bin\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.runtimeconfig.dev.json
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\bin\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.dll
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\bin\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.pdb
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\obj\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.csproj.AssemblyReference.cache
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\obj\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\obj\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.AssemblyInfoInputs.cache
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\obj\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.AssemblyInfo.cs
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\obj\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.csproj.CoreCompileInputs.cache
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\obj\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.dll
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\obj\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.pdb
+C:\Users\122589\source\repos\LeituraDeArquivoTextoPt2\LeituraDeArquivoTextoPt2\obj\Debug\netcoreapp3.1\LeituraDeArquivoTextoPt2.genruntimeconfig.cache
